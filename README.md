@@ -150,10 +150,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240817_029.JPG" data-lightbox="abc"><img src="20240817_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_030.JPG" data-lightbox="abc"><img src="20240817_030.JPG" alt="サンプル画像" width="900" /></a>
 
-<a href="https://github.com/torokoid/hagurosan/20210810_015.JPG" data-lightbox="abc"><img src="https://github.com/torokoid/hagurosan/20210810_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://github.com/torokoid/hagurosan/20210810_017.JPG" data-lightbox="abc"><img src="https://github.com/torokoid/hagurosan/20210810_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://github.com/torokoid/hagurosan/20210810_060.JPG" data-lightbox="abc"><img src="https://github.com/torokoid/hagurosan/20210810_060.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://github.com/torokoid/hagurosan/20210810_059.JPG" data-lightbox="abc"><img src="https://github.com/torokoid/hagurosan/20210810_059.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://github.com/torokoid/hagurosan/blob/main/20210810_015.JPG" data-lightbox="abc"><img src="https://github.com/torokoid/hagurosan/blob/main/20210810_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://github.com/torokoid/hagurosan/blob/main/20210810_017.JPG" data-lightbox="abc"><img src="https://github.com/torokoid/hagurosan/blob/main/20210810_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://github.com/torokoid/hagurosan/blob/main/20210810_060.JPG" data-lightbox="abc"><img src="https://github.com/torokoid/hagurosan/blob/main/20210810_060.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://github.com/torokoid/hagurosan/blob/main/20210810_059.JPG" data-lightbox="abc"><img src="https://github.com/torokoid/hagurosan/blob/main/20210810_059.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <!--
