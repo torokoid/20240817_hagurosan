@@ -194,10 +194,18 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20210810_060.JPG" data-lightbox="abc"><img src="20210810_060.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_059.JPG" data-lightbox="abc"><img src="20210810_059.JPG" alt="サンプル画像" width="900" /></a>
 
-
+<br><br><br><br><br><br>
+<h3><span class="yellow"><br>以下、動画。<br><br></span></h3>
 <a href="https://youtube.com/shorts/QoUQ9bMcs8s?si=NBr07M7IuUOvn5Vc" data-lightbox="abc"><img src="20240817_001.png" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>田舎道を進んで、羽黒山入り口に入ります。<br><br></span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sDYgSMbHRX4?si=fv72QExnfAtTl9DX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<h3><span class="yellow"><br>最終駐車場、チャリダーが居ます。<br><br></span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3cVHXIVf5B4?si=w4h1V267o3XB5oN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h3><span class="yellow"><br>なぜかホーン鳴らしちゃいました、信心深い地元民は徒歩で山を上がってきます。<br><br></span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eICBgZoEoIA?si=YrD_I6wwGZulSsLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--
 <div style="background-color:rgb(255,255,255,0.8);">
