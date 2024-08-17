@@ -176,6 +176,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240817_023.JPG" data-lightbox="abc"><img src="20240817_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_024.JPG" data-lightbox="abc"><img src="20240817_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_025.JPG" data-lightbox="abc"><img src="20240817_025.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>右が筑波山、左は加波山。<br><br></span></h3>
+
 <a href="20240817_026.JPG" data-lightbox="abc"><img src="20240817_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_027.JPG" data-lightbox="abc"><img src="20240817_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_028.JPG" data-lightbox="abc"><img src="20240817_028.JPG" alt="サンプル画像" width="900" /></a>
