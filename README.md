@@ -117,7 +117,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>〜〜〜8/17羽黒山山頂の神社にお参りして、展望台から関東平野を眺めました〜〜〜<br><br></span></h3>
 
-<a href="https://github.com/torokoid/hagurosan/blob/main/20210810_063.JPG" data-lightbox="abc"><img src="https://github.com/torokoid/hagurosan/blob/main/20210810_063.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://github.com/torokoid/hagurosan/blob/main/20210810_063.png" data-lightbox="abc"><img src="https://github.com/torokoid/hagurosan/blob/main/20210810_063.png" alt="サンプル画像" width="900" /></a>
 
 <a href="20240817_001.JPG" data-lightbox="abc"><img src="20240817_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_002.JPG" data-lightbox="abc"><img src="20240817_002.JPG" alt="サンプル画像" width="900" /></a>
