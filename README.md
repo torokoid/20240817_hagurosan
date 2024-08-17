@@ -117,6 +117,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>〜〜〜2024/08/17羽黒山山頂の神社にお参りして、展望台から関東平野を眺めました〜〜〜<br><br></span></h3>
 
+<h3><span class="yellow"><br>関東平野の北端です、これより北は塩原〜那須の山岳エリア。<br><br></span></h3>
 <a href="20210810_063.png" data-lightbox="abc"><img src="20210810_063.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="yellow"><br>ここから長い階段を上がって神社まで登ります<br>
 この階段の登りであっという間に汗だく。<br><br></span></h3>
