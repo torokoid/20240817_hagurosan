@@ -127,7 +127,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240817_005.JPG" data-lightbox="abc"><img src="20240817_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_006.JPG" data-lightbox="abc"><img src="20240817_006.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>お浄めの水で水分補給。<br><br></span></h3>
+<h3><span class="yellow"><br>神社に着きました<br>お浄めの水で水分補給。<br><br></span></h3>
 
 <a href="20240817_007.JPG" data-lightbox="abc"><img src="20240817_007.JPG" alt="サンプル画像" width="900" /></a>
 
