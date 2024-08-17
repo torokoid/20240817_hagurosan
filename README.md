@@ -212,6 +212,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>なぜかホーン鳴らしちゃいました、信心深い地元民は徒歩で山を上がってきます。<br><br></span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eICBgZoEoIA?si=YrD_I6wwGZulSsLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br><br><br>
+<h3><span class="yellow"><br>以上、今回も取り止めもない画像集でしたが、最後までご覧頂きありがとうございました。<br><br></span></h3>
+
 <!--
 <div style="background-color:rgb(255,255,255,0.8);">
 <h3><br>いつもありがとうございます。<br>
