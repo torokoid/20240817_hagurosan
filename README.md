@@ -115,40 +115,76 @@ background-color: rgba(0, 225, 0, 0.6);
 勝ったら、パリ五輪が終わるまでいます。<br><br></span></h3>
 -->
 
-<h3><span class="yellow"><br>〜〜〜8/17羽黒山山頂の神社にお参りして、展望台から関東平野を眺めました〜〜〜<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜2024/08/17羽黒山山頂の神社にお参りして、展望台から関東平野を眺めました〜〜〜<br><br></span></h3>
 
 <a href="20210810_063.png" data-lightbox="abc"><img src="20210810_063.png" alt="サンプル画像" width="900" /></a>
-
+<h3><span class="yellow"><br>ここから長い階段を上がって神社まで登ります<br>
+この階段の登りであっという間に汗だく。<br><br></span></h3>
 <a href="20240817_001.JPG" data-lightbox="abc"><img src="20240817_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_002.JPG" data-lightbox="abc"><img src="20240817_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_003.JPG" data-lightbox="abc"><img src="20240817_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_004.JPG" data-lightbox="abc"><img src="20240817_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_005.JPG" data-lightbox="abc"><img src="20240817_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_006.JPG" data-lightbox="abc"><img src="20240817_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>お浄めの水で水分補給。<br><br></span></h3>
+
 <a href="20240817_007.JPG" data-lightbox="abc"><img src="20240817_007.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>ここで開催される梵天祭のお人形。<br><br></span></h3>
+
 <a href="20240817_008.JPG" data-lightbox="abc"><img src="20240817_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_009.JPG" data-lightbox="abc"><img src="20240817_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_010.JPG" data-lightbox="abc"><img src="20240817_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>お賽銭入れて鐘をつきます。<br><br></span></h3>
+
 <a href="20240817_011.JPG" data-lightbox="abc"><img src="20240817_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_012.JPG" data-lightbox="abc"><img src="20240817_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_013.JPG" data-lightbox="abc"><img src="20240817_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_014.JPG" data-lightbox="abc"><img src="20240817_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>階段を下って、展望台からの眺め。<br><br></span></h3>
+
 <a href="20240817_015.JPG" data-lightbox="abc"><img src="20240817_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_016.JPG" data-lightbox="abc"><img src="20240817_016.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>山頂のお蕎麦屋さんはまだ開店前。<br><br></span></h3>
+
 <a href="20240817_017.JPG" data-lightbox="abc"><img src="20240817_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_018.JPG" data-lightbox="abc"><img src="20240817_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>自販機の飲み物は良心的な価格。<br><br></span></h3>
+
 <a href="20240817_019.JPG" data-lightbox="abc"><img src="20240817_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_020.JPG" data-lightbox="abc"><img src="20240817_020.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>山の下からの眺め、真ん中のアンテナの辺りが展望台。<br><br></span></h3>
+
 <a href="20240817_021.JPG" data-lightbox="abc"><img src="20240817_021.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>令和6年の運勢一覧です。<br><br></span></h3>
+
 <a href="20240817_022.JPG" data-lightbox="abc"><img src="20240817_022.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>展望台からの眺めをまとめました。<br><br></span></h3>
+
 <a href="20240817_023.JPG" data-lightbox="abc"><img src="20240817_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_024.JPG" data-lightbox="abc"><img src="20240817_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_025.JPG" data-lightbox="abc"><img src="20240817_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_026.JPG" data-lightbox="abc"><img src="20240817_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_027.JPG" data-lightbox="abc"><img src="20240817_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_028.JPG" data-lightbox="abc"><img src="20240817_028.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>関東平野の北端部にニョキっと突き出た山なので、放送用アンテナが立っています。<br><br></span></h3>
+
 <a href="20240817_029.JPG" data-lightbox="abc"><img src="20240817_029.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>田んぼの中を突っ切る東北新幹線の高架、この辺りで200km/h超えてます。<br><br></span></h3>
+
 <a href="20240817_030.JPG" data-lightbox="abc"><img src="20240817_030.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>夏場でも空気が澄むと新宿・池袋の高層ビルはよく見えます。<br><br></span></h3>
 
 <a href="20210810_015.JPG" data-lightbox="abc"><img src="20210810_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_017.JPG" data-lightbox="abc"><img src="20210810_017.JPG" alt="サンプル画像" width="900" /></a>
