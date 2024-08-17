@@ -195,6 +195,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20210810_059.JPG" data-lightbox="abc"><img src="20210810_059.JPG" alt="サンプル画像" width="900" /></a>
 
 
+<a href="https://youtube.com/shorts/QoUQ9bMcs8s" data-lightbox="abc"><img src="https://youtube.com/shorts/QoUQ9bMcs8s" alt="サンプル画像" width="900" /></a>
+
+
+
 <!--
 <div style="background-color:rgb(255,255,255,0.8);">
 <h3><br>いつもありがとうございます。<br>
