@@ -140,11 +140,14 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>お賽銭入れて鐘をつきます。<br><br></span></h3>
 
 <a href="20240817_011.JPG" data-lightbox="abc"><img src="20240817_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>お参りを済ませて、階段を下りたところ。<br><br></span></h3>
+
 <a href="20240817_012.JPG" data-lightbox="abc"><img src="20240817_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_013.JPG" data-lightbox="abc"><img src="20240817_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_014.JPG" data-lightbox="abc"><img src="20240817_014.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>階段を下って、展望台からの眺め。<br><br></span></h3>
+<h3><span class="yellow"><br>展望台からの眺め。<br><br></span></h3>
 
 <a href="20240817_015.JPG" data-lightbox="abc"><img src="20240817_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240817_016.JPG" data-lightbox="abc"><img src="20240817_016.JPG" alt="サンプル画像" width="900" /></a>
